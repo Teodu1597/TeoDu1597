@@ -1,3 +1,5 @@
+[![Snake](https://raw.githubusercontent.com/teodu1597/teodu1597/output/github-contribution-grid-snake.svg)](https://github.com/teodu1597)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2040%20mins-blue)
 

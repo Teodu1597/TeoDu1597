@@ -1,4 +1,4 @@
-[![terminal](https://raw.githubusercontent.com/teodu1597/teodu1597/carbon.png)](https://github.com/teodu1597)
+[![terminal](https://github.com/teodu1597/teodu1597/blob/main/carbon.png)](https://github.com/teodu1597)
 
 [![Snake](https://raw.githubusercontent.com/teodu1597/teodu1597/output/github-contribution-grid-snake.svg)](https://github.com/teodu1597)
 

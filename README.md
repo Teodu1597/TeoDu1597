@@ -1,11 +1,18 @@
 `
 $ whoami
+
 teodu
+
 $ like
+
 webtoon, programing
+
 $ learning
+
 react, next, typescript
+
 $ age
+
 Error: 13: (Permission denied)
 `
 

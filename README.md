@@ -1,20 +1,4 @@
-```
-$ whoami
-
-teodu
-
-$ like
-
-webtoon, programing
-
-$ learning
-
-react, next, typescript
-
-$ age
-
-Error: 13: (Permission denied)
-```
+[![terminal](https://raw.githubusercontent.com/teodu1597/teodu1597/carbon.png)](https://github.com/teodu1597)
 
 [![Snake](https://raw.githubusercontent.com/teodu1597/teodu1597/output/github-contribution-grid-snake.svg)](https://github.com/teodu1597)
 
